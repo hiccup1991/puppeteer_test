@@ -13,6 +13,13 @@
   "author": "hiccup",
   "license": "ISC",
   "dependencies": {
+    "chrome-launcher": "^0.10.5",
+    "chrome-remote-interface": "^0.26.1",
     "puppeteer": "^1.10.0"
+  },
+  "devDependencies": {
+    "chromedriver": "^2.43.1",
+    "selenium-webdriver": "^4.0.0-alpha.1",
+    "webdriverio": "^4.14.0"
   }
 }
