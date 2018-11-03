@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer_test",
+  "version": "1.0.0",
+  "description": "This is the puppeteer test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiccup1991/puppeteer_test.git"
+  },
+  "author": "hiccup",
+  "license": "ISC"
+}
