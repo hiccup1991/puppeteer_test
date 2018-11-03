@@ -11,5 +11,8 @@
     "url": "https://github.com/hiccup1991/puppeteer_test.git"
   },
   "author": "hiccup",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  }
 }
